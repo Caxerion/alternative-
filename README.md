@@ -10,7 +10,7 @@ Aplikasi manajemen aset berbasis Laravel 12 dengan fitur pelacakan inventori rea
 - Node.js 20+
 - MySQL/SQLite
 
-### Instalasi
+### Instalasi h
 
 ```bash
 # Clone & masuk ke folder
